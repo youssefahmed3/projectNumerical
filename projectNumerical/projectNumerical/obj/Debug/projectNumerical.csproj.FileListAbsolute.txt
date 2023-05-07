@@ -1,0 +1,201 @@
+D:\projectNumerical\projectNumerical\bin\Debug\projectNumerical.exe.config
+D:\projectNumerical\projectNumerical\bin\Debug\projectNumerical.exe
+D:\projectNumerical\projectNumerical\bin\Debug\projectNumerical.pdb
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Form1.resources
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Properties.Resources.resources
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.csproj.GenerateResource.cache
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.csproj.CoreCompileInputs.cache
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.exe
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.pdb
+D:\projectNumerical\projectNumerical\bin\Debug\Mathematical.Expressions.dll
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.csproj.AssemblyReference.cache
+D:\projectNumerical\projectNumerical\bin\Debug\org.matheval.dll
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.FalsePosition.resources
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Form2.resources
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Secant.resources
+D:\projectNumerical\projectNumerical\bin\Debug\FParsec.dll
+D:\projectNumerical\projectNumerical\bin\Debug\FParsecCS.dll
+D:\projectNumerical\projectNumerical\bin\Debug\FSharp.Core.dll
+D:\projectNumerical\projectNumerical\bin\Debug\MathNet.Numerics.dll
+D:\projectNumerical\projectNumerical\bin\Debug\MathNet.Numerics.FSharp.dll
+D:\projectNumerical\projectNumerical\bin\Debug\MathNet.Symbolics.dll
+D:\projectNumerical\projectNumerical\bin\Debug\FParsec.xml
+D:\projectNumerical\projectNumerical\bin\Debug\FParsecCS.xml
+D:\projectNumerical\projectNumerical\bin\Debug\FSharp.Core.xml
+D:\projectNumerical\projectNumerical\bin\Debug\MathNet.Numerics.xml
+D:\projectNumerical\projectNumerical\bin\Debug\MathNet.Numerics.FSharp.xml
+D:\projectNumerical\projectNumerical\bin\Debug\cs\FSharp.Core.resources.dll
+D:\projectNumerical\projectNumerical\bin\Debug\de\FSharp.Core.resources.dll
+D:\projectNumerical\projectNumerical\bin\Debug\en\FSharp.Core.resources.dll
+D:\projectNumerical\projectNumerical\bin\Debug\es\FSharp.Core.resources.dll
+D:\projectNumerical\projectNumerical\bin\Debug\fr\FSharp.Core.resources.dll
+D:\projectNumerical\projectNumerical\bin\Debug\it\FSharp.Core.resources.dll
+D:\projectNumerical\projectNumerical\bin\Debug\ja\FSharp.Core.resources.dll
+D:\projectNumerical\projectNumerical\bin\Debug\ko\FSharp.Core.resources.dll
+D:\projectNumerical\projectNumerical\bin\Debug\pl\FSharp.Core.resources.dll
+D:\projectNumerical\projectNumerical\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\projectNumerical\projectNumerical\bin\Debug\ru\FSharp.Core.resources.dll
+D:\projectNumerical\projectNumerical\bin\Debug\tr\FSharp.Core.resources.dll
+D:\projectNumerical\projectNumerical\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\projectNumerical\projectNumerical\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Newton.resources
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.SimpleF.resources
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Algebric_Form.resources
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.LUDecomposition.resources
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Second_Page.resources
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Intro.resources
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Form3.resources
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Choose2.resources
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.CRule.resources
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Gauss_PP.resources
+D:\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Gauss_Jordan.resources
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.csproj.AssemblyReference.cache
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.csproj.SuggestedBindingRedirects.cache
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Algebric_Form.resources
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Choose2.resources
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.CRule.resources
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.FalsePosition.resources
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Form1.resources
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Form2.resources
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Form3.resources
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Intro.resources
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.LUDecomposition.resources
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Newton.resources
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Properties.Resources.resources
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Secant.resources
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Second_Page.resources
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.SimpleF.resources
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.csproj.GenerateResource.cache
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.exe
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.pdb
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\projectNumerical.exe.config
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\projectNumerical.exe
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\projectNumerical.pdb
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\FParsec.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\FParsecCS.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\FSharp.Core.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\MathNet.Numerics.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\MathNet.Numerics.FSharp.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\MathNet.Symbolics.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\org.matheval.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\FParsec.xml
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\FParsecCS.xml
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\FSharp.Core.xml
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\MathNet.Numerics.xml
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\MathNet.Numerics.FSharp.xml
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\MOHAMED ASHRAF\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.csproj.CopyComplete
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\projectNumerical.exe.config
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\projectNumerical.exe
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\projectNumerical.pdb
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\FParsec.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\FParsecCS.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\FSharp.Core.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\MathNet.Numerics.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\MathNet.Numerics.FSharp.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\MathNet.Symbolics.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\org.matheval.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\FParsec.xml
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\FParsecCS.xml
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\FSharp.Core.xml
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\MathNet.Numerics.xml
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\MathNet.Numerics.FSharp.xml
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\cs\FSharp.Core.resources.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\de\FSharp.Core.resources.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\en\FSharp.Core.resources.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\es\FSharp.Core.resources.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\fr\FSharp.Core.resources.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\it\FSharp.Core.resources.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\ja\FSharp.Core.resources.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\ko\FSharp.Core.resources.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\pl\FSharp.Core.resources.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\ru\FSharp.Core.resources.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\tr\FSharp.Core.resources.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.csproj.AssemblyReference.cache
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Algebric_Form.resources
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Choose2.resources
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.CRule.resources
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.FalsePosition.resources
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Form1.resources
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Form2.resources
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Form3.resources
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Intro.resources
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.LUDecomposition.resources
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Newton.resources
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Properties.Resources.resources
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Secant.resources
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Second_Page.resources
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.SimpleF.resources
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.csproj.GenerateResource.cache
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.csproj.CopyComplete
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.exe
+D:\UNIVERSITY   (FCI-MTI)\Years\THIRD YEAR\SEMESTER 6\NUMERICAL ANALYSIS\PROJECT\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.pdb
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\projectNumerical.exe.config
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\projectNumerical.exe
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\projectNumerical.pdb
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\FParsec.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\FParsecCS.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\FSharp.Core.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\MathNet.Numerics.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\MathNet.Numerics.FSharp.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\MathNet.Symbolics.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\org.matheval.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\FParsec.xml
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\FParsecCS.xml
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\FSharp.Core.xml
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\MathNet.Numerics.xml
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\MathNet.Numerics.FSharp.xml
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.csproj.AssemblyReference.cache
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.csproj.SuggestedBindingRedirects.cache
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Algebric_Form.resources
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Choose2.resources
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.CRule.resources
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.FalsePosition.resources
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Form1.resources
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Form2.resources
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Form3.resources
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Intro.resources
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.LUDecomposition.resources
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Newton.resources
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Properties.Resources.resources
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Secant.resources
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.Second_Page.resources
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.SimpleF.resources
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.csproj.GenerateResource.cache
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.csproj.CoreCompileInputs.cache
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.csproj.CopyComplete
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.exe
+C:\Users\VIBE\Desktop\projectNumerical\projectNumerical\projectNumerical\obj\Debug\projectNumerical.pdb
